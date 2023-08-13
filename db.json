@@ -24,5 +24,23 @@
       "text": "test",
       "id": 4
     }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "email": "tony@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Bruce Wayne",
+      "email": "bruce@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Peter Parker",
+      "email": "parkar.email.com"
+    }
   ]
 }
